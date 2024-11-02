@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Python Developer
 - - 🤝 How to reach me?
 - Here's My Contact Info :
-- WP : https://wa.me/+60182866284
-- FB : https://www.facebook.com/rukon6950
-- IG : https://www.instagram.com/myself_rukon/
+- - WP : https://wa.me/+60182866284
+- - FB : https://www.facebook.com/rukon6950
+- - IG : https://www.instagram.com/myself_rukon/
 
 <!---
 tirukon015/tirukon015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
