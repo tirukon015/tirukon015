@@ -5,7 +5,7 @@
 - - 📫 How to reach me?
 - Here's My Contact Info :
 -- WP : +60182866284
---- FB : https://www.facebook.com/rukon6950
+- FB : https://www.facebook.com/rukon6950
 - IG : https://www.instagram.com/myself_rukon/
 
 <!---
