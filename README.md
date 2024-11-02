@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Touhidul Islam Rukon
-- 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently studying at University of Cyberjaya with Bachelor in IT
+- 👨‍💻 I’m interested in AI & Machine Learning
+- 👨‍🎓 I’m currently studying at University of Cyberjaya with Bachelor in IT
 - 💞️ I’m looking to collaborate on Python Developer
-- - 📫 How to reach me?
+- - 🤝 How to reach me?
 - Here's My Contact Info :
 - WP : https://wa.me/+60182866284
 - FB : https://www.facebook.com/rukon6950
