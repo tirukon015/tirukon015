@@ -2,7 +2,7 @@
 
 ### IT Systems & Operations Lead | Software Specialist | Full-Stack Developer
 
-I'm a Bachelor of Information Technology student at the University of Cyberjaya, Malaysia, with hands-on experience across software development, IT systems, operations, automation, and business process solutions.
+I'm a **2nd-year Bachelor of Information Technology student at the University of Cyberjaya, Malaysia**, with hands-on experience across software development, IT systems, operations, automation, and business process solutions.
 
 I build practical software systems that connect technology with real-world business operations.
 
@@ -10,6 +10,7 @@ I build practical software systems that connect technology with real-world busin
 
 ## About Me
 
+- 🎓 2nd-year Bachelor of Information Technology student
 - 💻 Full-Stack Web Development
 - ⚙️ IT Systems & Operations
 - 🔄 Business Process Automation
