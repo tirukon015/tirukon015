@@ -1,22 +1,23 @@
 # Touhidul Islam Rukon
 
-### Software Specialist | Full-Stack Developer | IT Systems & Automation
+### IT Systems & Operations Lead | Software Specialist | Full-Stack Developer
 
-I'm a Bachelor of Information Technology student at the University of Cyberjaya, Malaysia, with hands-on experience in software development, IT systems, automation, and business process solutions.
+I'm a Bachelor of Information Technology student at the University of Cyberjaya, Malaysia, with hands-on experience across software development, IT systems, operations, automation, and business process solutions.
 
-I enjoy turning real-world operational challenges into practical, reliable software solutions.
+I build practical software systems that connect technology with real-world business operations.
 
 ---
 
 ## About Me
 
-- 💻 Software development and full-stack web applications
-- ⚙️ Business process automation and workflow systems
-- 🗄️ Database and information systems
-- 📊 Operational dashboards and data-driven applications
-- 🖥️ IT infrastructure and system administration
-- 🔧 Hardware and software troubleshooting
-- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💻 Full-Stack Web Development
+- ⚙️ IT Systems & Operations
+- 🔄 Business Process Automation
+- 🗄️ Database & Information Systems
+- 📊 Operational Dashboards & Reporting
+- 🖥️ IT Infrastructure & System Administration
+- 🔧 Software & Hardware Troubleshooting
+- 🤖 Artificial Intelligence & Machine Learning
 
 ---
 
@@ -56,23 +57,26 @@ I enjoy turning real-world operational challenges into practical, reliable softw
 
 ### Enterprise Operations & Workflow Platform
 
-A production-oriented internal platform developed for a leading Malaysian telecommunications organization.
+A production-oriented enterprise platform developed at **Blue Bee Technologies Sdn. Bhd.** as part of an engagement supporting **one of Malaysia's leading telecommunications and network infrastructure companies**.
 
-The platform focuses on improving operational visibility, workflow coordination, productivity tracking, inventory-related processes, and daily performance monitoring.
+The platform brings together operational workflows, real-time dashboards, data management, productivity tracking, reporting, and process automation into a centralized system.
 
-**Key Areas**
+The development work covers:
 
-- Real-time operational dashboards
-- Workflow and process management
-- Inventory and production tracking
-- Workforce assignment and productivity monitoring
-- Batch and progress tracking
-- Performance reporting
-- Data-driven operational insights
+- Full-stack application development
+- System architecture and database design
+- Operational dashboard development
+- Workflow and process automation
+- Data management and reporting
+- Productivity and performance tracking
+- Inventory-related workflow management
+- Batch and progress monitoring
+- Workforce coordination
+- Deployment, maintenance, and continuous improvement
 
 **Technology:** Next.js · React · TypeScript · PostgreSQL · Supabase
 
-> Developed as part of a confidential enterprise project. Specific client, product, and operational details are intentionally omitted due to NDA requirements.
+> Developed as part of a confidential enterprise engagement. Client identity, project-specific information, business data, and other sensitive details are intentionally omitted due to confidentiality requirements.
 
 ---
 
@@ -89,7 +93,7 @@ The platform focuses on improving operational visibility, workflow coordination,
 
 ## Professional Interests
 
-Software Engineering · Full-Stack Development · Business Automation · IT Systems · Database Systems · Cloud Computing · Artificial Intelligence · Machine Learning
+**Software Engineering** · **Full-Stack Development** · **Business Automation** · **IT Systems** · **Database Systems** · **Cloud Computing** · **Artificial Intelligence** · **Machine Learning**
 
 ---
 
