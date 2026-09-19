@@ -2,45 +2,36 @@
 
 # Touhidul Islam Rukon
 
-**IT Student · Software Engineer · Systems & Operations**
+### Software Engineer · IT Systems & Operations · Full-Stack Developer
 
-I build practical software for real-world workflows — from operational systems and business automation to modern web applications.
+I build practical software that connects technology with real-world operations.
 
-[Portfolio](https://rokon.dev) · [LinkedIn](https://www.linkedin.com/in/touhidul-islam-rukon/) · [Email](mailto:tirukon015@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rokon.dev-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rokon.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-tirukon015-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirukon015)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirukon015@gmail.com)
 
 </div>
 
 ---
 
-### What I build
+## `whoami`
 
-- ⚙️ **Operational systems** — inventory, processing, delivery, reporting
-- 🧩 **Full-stack applications** — Next.js, TypeScript, React
-- 🤖 **Automation & AI** — turning repetitive workflows into software
-- 🗄️ **Data systems** — PostgreSQL, Supabase, APIs
+```text
+Name        Touhidul Islam Rukon
+Role        Software Engineer · IT Systems & Operations
+Education   Bachelor of Information Technology
+Location    Malaysia
 
-### Current focus
+Focus       Full-Stack Development
+            Business & Workflow Automation
+            Operational Systems
+            Data & Database Systems
 
-Building production-oriented systems while going deeper into **software architecture, cloud computing, AI/ML, and DevOps**.
-
-### Selected work
-
-**RPOMS** — Production operations management system  
-A full-stack system for inventory, router processing, delivery, workforce workflows, reporting, and operational visibility.
-
-**ResearchForge** — AI research assistant  
-An AI/RAG-based project focused on helping users work with research papers and structured knowledge.
-
-**ERTH** — E-waste recycling platform  
-A production-oriented web experience for an electronics recycling initiative.
-
-### Stack
-
-`TypeScript` `JavaScript` `Python` `SQL`  
-`Next.js` `React` `Tailwind CSS`  
-`PostgreSQL` `Supabase` `REST APIs`  
-`Git` `GitHub` `Linux` `Vercel`
-
----
-
-> **Build useful things. Learn continuously. Improve every iteration.**
+Exploring   Artificial Intelligence
+            Machine Learning
+            Cloud Computing
+            DevOps
+            Software Architecture
