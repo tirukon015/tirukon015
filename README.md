@@ -1,81 +1,46 @@
+<div align="center">
+
 # Touhidul Islam Rukon
 
-### IT Systems & Operations Lead | Software Specialist | Full-Stack Developer
+**IT Student · Software Engineer · Systems & Operations**
 
-I'm a 2nd-year Bachelor of Information Technology student at the University of Cyberjaya, Malaysia, with hands-on experience building software systems, operational platforms, business automation solutions, and production-oriented websites.
+I build practical software for real-world workflows — from operational systems and business automation to modern web applications.
 
-I build practical software that connects technology with real-world business operations — from WMS/ERP-like operational systems and databases to dashboards, workflow automation, and modern web applications.
+[Portfolio](https://rokon.dev) · [LinkedIn](https://www.linkedin.com/in/touhidul-islam-rukon/) · [Email](mailto:tirukon015@gmail.com)
 
----
-
-## About Me
-
-🎓 2nd-Year Bachelor of Information Technology Student  
-💻 Full-Stack Web Development  
-⚙️ IT Systems & Operations  
-🔄 Business Process Automation  
-🗄️ Database & Information Systems  
-📊 Operational Dashboards & Reporting  
-🖥️ IT Infrastructure & System Administration  
-🔧 Software & Hardware Troubleshooting  
-🤖 Artificial Intelligence & Machine Learning
+</div>
 
 ---
 
-## Tech Stack
+### What I build
 
-**Languages:** TypeScript · JavaScript · Python · SQL
+- ⚙️ **Operational systems** — inventory, processing, delivery, reporting
+- 🧩 **Full-stack applications** — Next.js, TypeScript, React
+- 🤖 **Automation & AI** — turning repetitive workflows into software
+- 🗄️ **Data systems** — PostgreSQL, Supabase, APIs
 
-**Frontend:** React · Next.js · Tailwind CSS · HTML5 · CSS3
+### Current focus
 
-**Backend & Database:** PostgreSQL · Supabase · REST API
+Building production-oriented systems while going deeper into **software architecture, cloud computing, AI/ML, and DevOps**.
 
-**Tools & Systems:** Git · GitHub · Linux · VS Code
+### Selected work
 
----
+**RPOMS** — Production operations management system  
+A full-stack system for inventory, router processing, delivery, workforce workflows, reporting, and operational visibility.
 
-## Featured Work
+**ResearchForge** — AI research assistant  
+An AI/RAG-based project focused on helping users work with research papers and structured knowledge.
 
-### RPOMS — Production WMS / ERP-Like Operations System
+**ERTH** — E-waste recycling platform  
+A production-oriented web experience for an electronics recycling initiative.
 
-A real-world production-oriented full-stack system built around inventory, processing, delivery, and operational workflows.
+### Stack
 
-RPOMS functions as a WMS/ERP-like platform, bringing together inventory movement, router/device model tracking, serial-number workflows, processing and delivery management, accessories, operational dashboards, user management, reporting, and centralized data management.
-
-**Core Work:** Full-stack development · System architecture · Database design · Inventory management · Router/device tracking · Serial-number workflows · Processing & delivery management · Operational dashboards · Business workflow automation · User management · Data management & reporting
-
-**Technology:** Next.js · React · TypeScript · PostgreSQL · Supabase
-
-> Built for real operational use. Confidential business, organization, and project-specific information is intentionally omitted.
-
-### Portfolio Website
-
-Designed and developed my personal portfolio as a production-ready web application to showcase my software engineering work, technical capabilities, projects, and professional profile.
-
-**Technology:** Next.js · React · TypeScript · Tailwind CSS
-
-### ERTH Website Development
-
-Developed and refined a production-oriented website experience for ERTH, including frontend implementation, responsive UI, performance considerations, and SEO-focused improvements.
-
-**Technology:** Next.js · React · TypeScript · Tailwind CSS
+`TypeScript` `JavaScript` `Python` `SQL`  
+`Next.js` `React` `Tailwind CSS`  
+`PostgreSQL` `Supabase` `REST APIs`  
+`Git` `GitHub` `Linux` `Vercel`
 
 ---
 
-## Currently Learning
-
-Artificial Intelligence · Machine Learning · Cloud Computing · Software Architecture · DevOps & Deployment · Advanced Full-Stack Development
-
-## Professional Interests
-
-Software Engineering · Full-Stack Development · Business Automation · IT Systems · Database Systems · Cloud Computing · Artificial Intelligence · Machine Learning
-
----
-
-## Connect With Me
-
-💼 [LinkedIn](YOUR_LINKEDIN_URL) · 📧 [Email](YOUR_EMAIL_LINK)
-
----
-
-**Building software. Solving problems. Learning continuously.**
+> **Build useful things. Learn continuously. Improve every iteration.**
