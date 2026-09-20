@@ -8,7 +8,7 @@ I build practical software that connects technology with real-world operations.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rokon.dev-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rokon.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rukon.dev-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rokon.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-tirukon015-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirukon015)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirukon015@gmail.com)
