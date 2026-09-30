@@ -2,7 +2,7 @@
 
 # Touhidul Islam Rukon
 
-### Software Engineer · IT Systems & Operations · Full-Stack Developer
+### Software Engineer · IT Systems & Operations Lead · Full-Stack Developer
 
 I build practical software that connects technology with real-world operations.
 
