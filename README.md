@@ -28,7 +28,7 @@ Location    Malaysia
 Focus       Full-Stack Development
             Business & Workflow Automation
             Operational Systems
-            Data & Database Systems
+            Data & Database System
 
 Exploring   Artificial Intelligence
             Machine Learning
