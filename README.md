@@ -22,7 +22,7 @@ I build practical software that connects technology with real-world operations.
 ```text
 Name        Touhidul Islam Rukon
 Role        Software Engineer · IT Systems & Operations Lead
-Education   Bachelor of Information Technology
+Education   Bachelor of Information Technology(Final Year)
 Location    Cyberjaya, Malaysia
 
 Focus       Full-Stack Development
