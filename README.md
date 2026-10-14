@@ -4,7 +4,7 @@
 
 ### Software Engineer · IT Systems & Operations Lead · Full-Stack Developer
 
-I build practical software that connects technology with real-world operations.
+I build practical software that connects technology with real-world operation.
 
 <br>
 
